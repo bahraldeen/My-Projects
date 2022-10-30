@@ -1,0 +1,37 @@
+<DOCTYPE HTML>
+<html>
+<head>
+<title> mama</title>
+<link rel ="stylesheet" href ="style.css" >
+</head>
+<body>
+<button>
+<span class ="our-button">
+<span class="the-bar"></span>
+<select class= "the-bar" >
+<option>1
+<option>2
+</select>
+<span class="the-bar" ></span>
+</span>
+</button>
+<div class ="spinnerm">
+<div class ="spinner"> <hr class ="spinner1"></div>
+<div class ="spinner2"> <hr class ="spinner1"></div>
+<div class ="spinner3"> <hr class ="spinner1"></div>
+
+<div class="a">12</div>
+<div class="b">3</div>
+<div class="c">6</div>
+<div class="d">9</div>
+</div>
+
+<div class ="spinnermr">
+<marquee direction ="right">IT كلية شمال كردفان  بحرالدين  </marquee>
+</div>
+
+
+
+<script type="text/javascript" src = "java.js"></script>
+</body>
+</html>
